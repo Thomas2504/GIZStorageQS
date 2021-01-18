@@ -6,7 +6,7 @@
         "type": "string",
         "defaultValue": "gizstr",
         "metadata": {
-          "description": "GIZ: Specifies the name of the Azure Storage account, gizstr plus 8 random characters."
+          "description": "GIZ2021: Specifies the name of the Azure Storage account, gizstr plus 8 random characters."
         }
       },
       "containerName": {
