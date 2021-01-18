@@ -1,4 +1,4 @@
-# Create an Azure Storage Account and Blob Container on Azure
+# GIZ INTERNAL: Create an Azure Storage Account and Blob Container on Azure
 ![Azure Public Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/101-storage-blob-container/PublicLastTestDate.svg)
 ![Azure Public Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/101-storage-blob-container/PublicDeployment.svg)
 
