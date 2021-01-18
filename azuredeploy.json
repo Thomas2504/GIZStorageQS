@@ -4,8 +4,9 @@
     "parameters": {
       "storageAccountName": {
         "type": "string",
+        "defaultValue": "gizstr",
         "metadata": {
-          "description": "GIZ: Specifies the name of the Azure Storage account."
+          "description": "GIZ: Specifies the name of the Azure Storage account, gizstr plus 8 random characters."
         }
       },
       "containerName": {
